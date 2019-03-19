@@ -1,2 +1,3 @@
 # learning-css3-html5-js
-Aprendiendo css3, html5 y js
+Aprendiendo GIT, CSS3, HTML5 y JS
+
