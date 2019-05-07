@@ -1,3 +1,4 @@
 # learning-css3-html5-js
-Aprendiendo GIT, CSS3, HTML5 y JS
+Aprendiendo HTML5, CSS3, y JS
 
+Este repositorio es para aprender todo acerca de HTML5, CSS3 y Javascript
